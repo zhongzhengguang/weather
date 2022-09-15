@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -0.1257,
+        "lat": 51.5085
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291,
+        "feels_like": 290.67,
+        "temp_min": 288.07,
+        "temp_max": 293.43,
+        "pressure": 1026,
+        "humidity": 70
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 120
+    },
+    "clouds": {
+        "all": 61
+    },
+    "dt": 1658039236,
+    "sys": {
+        "type": 2,
+        "id": 2075535,
+        "country": "GB",
+        "sunrise": 1658030580,
+        "sunset": 1658088591
+    },
+    "timezone": 3600,
+    "id": 2643743,
+    "name": "London",
+    "cod": 200
+}
